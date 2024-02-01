@@ -1,0 +1,14 @@
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\bin\Debug\net8.0\Collection_Handset_City.exe
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\bin\Debug\net8.0\Collection_Handset_City.deps.json
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\bin\Debug\net8.0\Collection_Handset_City.runtimeconfig.json
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\bin\Debug\net8.0\Collection_Handset_City.dll
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\bin\Debug\net8.0\Collection_Handset_City.pdb
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.AssemblyInfo.cs
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.csproj.CoreCompileInputs.cache
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.dll
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\refint\Collection_Handset_City.dll
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.pdb
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\Collection_Handset_City.genruntimeconfig.cache
+C:\Projects\C# Projects\Collection_Handset_City\Collection_Handset_City\obj\Debug\net8.0\ref\Collection_Handset_City.dll
